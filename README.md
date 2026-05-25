@@ -8,7 +8,7 @@ Every `.py` file mirrors a section in the master Colab notebook.
 ## Library Map
 
 ```
-Your Code
+Code Structure
     │
     ├── CuPy  ─────────────────────────────────────────────────
     │         GPU-accelerated NumPy.  Under the hood it calls:
